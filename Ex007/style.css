@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Jockey+One&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;   
+}
+input{
+    margin: 10px;
+    padding: 10px;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;      
+    background: rgba(95, 158, 160, 0.308);
+}
+.form-content{
+    background-color: cadetblue;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 15px;    
+    align-items: center;
+    justify-content: center;
+    width: auto;
+
+}
+.dado-input{
+    border-radius: 8px;
+    text-align: center;
+}
+
+
+.enviar{
+    border-radius: 8px;
+    text-align: center;    
+    
+}
+.dado-label{
+    background-color: cornsilk;
+    border-radius: 8px;
+    margin: 5px;
+    padding: 5px; 
+    font-weight: bold;  
+}
+.title{   
+    font-family: "Jockey One", sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    color: white;
+    font-size: 2em;
+    border-radius: 8px;
+    margin: 5px;
+    padding: 5px; 
+}
+.res{
+    background-color: #cdebec;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 15px;    
+    align-items: center;
+    justify-content: center;
+    width: auto;
+
+}
+.res p{
+    font-size: 1.5rem;
+}
+footer{
+    background-color: #cdebec;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
