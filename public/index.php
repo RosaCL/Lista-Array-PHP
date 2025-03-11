@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Carro</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../resources/style.css">
 </head>
 <body>
     <main>
@@ -84,7 +84,7 @@
 
     </section>
     <footer>
-        <a href="https://github.com/RosaCL"><img src="./costurezaa.png" alt=""></a>
+        <a href="https://github.com/RosaCL"><img src="../public/costurezaa.png" alt=""></a>
     </footer>
     
     
