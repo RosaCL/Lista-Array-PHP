@@ -47,7 +47,7 @@
         </div>
     
     <footer>
-        <a href="https://github.com/RosaCL"><img src="../public/costurezaa.png" alt=""></a>
+        <a href="https://github.com/RosaCL" target="_blank"><img src="../public/img/costurezaa.png" alt=""></a>
     </footer>
 </body>
 </html>
