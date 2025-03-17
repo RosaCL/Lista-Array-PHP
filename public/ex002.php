@@ -7,6 +7,34 @@
     <link rel="stylesheet" href="../resources/css/style.css">
 </head>
 <body>
+<header>
+        <ul>
+            <button>
+                <li><a href="./ex001.php">Ex001</a></li>
+            </button>
+            <button>
+                <li><a href="./ex002.php">Ex002</a></li>
+            </button>
+            <button>                
+                <li><a href="./ex003.php">Ex003</a></li>
+            </button>
+            <button>                
+                <li><a href="./ex004.php">Ex004</a></li>
+            </button>
+            <button>
+                <li><a href="./ex005.php">Ex005</a></li>                
+            </button>
+            <button>                
+                <li><a href="./ex006.php">Ex006</a></li>
+            </button>       
+            <button>                
+                <li><a href="./ex007.php">Ex007</a></li>
+            </button>
+            <button>                
+                <li><a href="./ex008.php">Ex008</a></li>
+            </button>
+        </ul>
+    </header>
     <main>
         <section class="pergunta">
             <form action="<?=$_SERVER['PHP_SELF']?>" method="post">
